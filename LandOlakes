@@ -1,0 +1,93 @@
+
+<html>
+<head>
+<title>Land O Lakes, Florida</title>
+
+<style type="text/css">
+
+body {background-color:green; color: black; font-family: Times New Roman,  }
+
+		a {color: blue;}
+		a { target: "_NEW";}
+		a:visited {color: yellow;}
+		a:hover {color:black;}
+		.leftimg {height: 40%; width: 40%}
+		.rightimg {float: left; height: 40%; width: 40%;}
+		
+		hr {color: yellow;}
+
+		
+	
+</style>
+
+</head>
+
+<body>
+<h1><center>Land O Lakes, Florida</h1></center>
+
+<script type="text/javascript">
+ alert("Welcome!")
+</script>
+
+<sup><img src="Hotairbaloon.jpg" class="leftimg"> 1 </sup>
+<hr>		
+<div style="margin: 10px 10px 10px 40px;">
+<p>Land O Lakes is located in Pasco County, Florida north of Tampa.  It has experienced tremendeous growth
+over the past 20 years, evolving from a small farm town to a highly populated bedroom community of the 
+Tampa Bay Area.  It's name is derived from the many lakes around here, not the butter!</p>
+
+<p>The main subdivision of Land O Lakes is Lake Padgett Estates.  Over the years, many other subdivisions  
+have been built such as Sable Ridge, Wilderness Lake Preserve, Oakstead, Connerton and Concord Station.  
+Many of these new subdivisions include community pools, clubhouses and fitness centers.</p>
+
+<p>Shopping and dining options were very limited, as many residents had to travel to Tampa to shop at major
+stores and eat at favorite resturants.  Today, Land O' Lakes boasts many options, including 2 Publix locations,
+Winn-Dixie and a Super Target and Super Wal-Mart in Lutz, south of Land O Lakes. Collier Commons is a major
+shopping plaza that includes Publix (One of the chain's largest locations), Walgreens, clothing outlet Belk, and
+restaurants including Chilis, Village Inn, Sonic, Moe's Southwest Grill and Starbucks.  There are also four 
+banks and an apartment complex. All of this was built on a site that formerly housed horse stables. A few
+miles east is the Shops at Wiregrass, an open air mall. </p>
+
+<p>The two main throughfares of Land O Lakes are U.S. Highway 41 and State Road 54, both of which were two
+lane roads. They have since been upgraded to six lane highways with lots of traffic volume.  Other
+important roads include Parkway Boulevard, Collier Parkway, and Ehren Cutoff. The Suncoast Parkway,
+a toll road west of Land O Lakes connects travelers with Crystal River in Citrus County and Tampa
+International Airport.  Interstate 75 is accessible to the east of Land O Lakes.
+</p>
+
+<sup><img src="LOLHS.png" class="rightimg"> 2 </sup>
+<p>For many years, high school students attended <a href="http://phs.pasco.k12.fl.us" title="Pasco High School" target="_blank">Pasco High School</a> 
+ in Dade City. <a href="http://lolhs.pasco.k12.fl.us" title="Land O Lakes High School" target="_blank">Land O Lakes High School</a> was constructed in 1975.
+ Elementary students attended Sanders Memorial Elementary on School Road (now closed). Four more elementary
+ schools have since opened due to rapid population growth over the years. 
+ <a href="http://pvms.pasco.k12.fl.us" title="Pine View Middle School" target="_blank">Pine View Middle School</a> was built in 1978.  An additional middle school
+(<a href="http://csrms.pasco.k12.fl.us" title="Charles S Rushe Middle School" target="_blank">Charles S Rushe School</a>) and high school 
+(<a href="http://slhs.pasco.k12.fl.us" title="Sunlake High School" target="_blank">Sunlake High School</a>) were built adjacent to each other in 2007 to accommodate
+continued growth.  The administrative offices of the school board are located on U.S. Highway 41 adjacent to
+Land O Lakes High School. </p>
+
+<hr/>
+</p>
+<div class="footnote"><p>
+<sup> 1 http://en.wikipedia.org/wiki/File:Land_O%27_Lakes,_Florida_from_hot_air_balloon.jpg</sup>
+<div class="footnote"><p>
+<sup> 2 http://maps.google.com</sup>
+<hr/>
+<p>
+<a href="mailto:daniel.arment@email.saintleo.edu">
+   E-Mail Danny Arment</a>
+</p>
+
+
+
+
+
+
+
+
+<p></p>
+
+
+</body>
+
+</html> 
