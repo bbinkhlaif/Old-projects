@@ -1,0 +1,74 @@
+<! DOCTYPE html>
+<html>
+<head>
+<META charset "utf-8">
+	<title>Lions Soccer Club</title>
+
+<style class="text/css">
+
+	body {background-color : green; text-align: center; 
+			color: yellow;
+			font-size: 15pt;
+			font-family: Georgia, Serif;
+			margin-left: 2eM;margin-top: 2eM;
+			margin-right: 2eM;}
+	.leftimg{ height: 200px; width: 200px ; float: left; }
+	
+</style>
+</head>
+
+
+
+<body>
+
+<p><hr/><h1>The Lions Soccer Club</h1><hr/></p>
+
+
+<p><input type="button" value="About the club"
+		onclick="window.open('About.html','top=50, left=100, height=300, width=200');"/>
+	
+<input type="button" value="Members"
+	   onclick="window.open('Members.html','top=50, left=100, height=300, width=200');"/>
+<input type="button" value="Facbook Page"
+	   onclick="window.open('https://www.facebook.com/groups/LionsSoccerClub/','top=50, left=100, height=300, width=200');"/>
+<input type="button" value="Events"
+	   onclick="window.open('Events.html','top=50, left=100, height=300, width=200');"/>
+<input type="button" value="Contact Us"
+	   onclick="window.open('Contact us.html','top=50, left=100, height=300, width=200');"/>
+</p>
+
+
+
+<p>
+	<img src="http://www.hotelsnearsaintleo.com/_/rsrc/1289338610804/home/Saint%20Leo%20University%20Lions.jpg"class="leftimg" />
+	</p>
+	
+
+
+
+
+<p><h4>Lions Soccer Club (LSC) is an organization in the Saint Leo University dedicated to educating individuals in the sport of soccer. LSC engages its members in friendly competition and a disciplined team training environment. 
+To provide opportunities for Club members to play recreational and competitive soccer at a level appropriate to their skills and interests. 
+To develop the soccer skills of all Club members in all divisions while stressing teamwork, sportsmanship and an appreciation for the game of soccer.
+To promote the game of soccer in the community, in the region, and in the province.
+To promote the continual development of coaches, players, and game officials.
+To promote and develop a wholesome team sport for all participants, (players, coaches, volunteers, officials & spectators) specially indoor.
+</p>
+
+<p><h4>Towards this end, Lions Soccer Club provides university students with the means to pursue the sport of Football soccer. It also challenges individuals, physically and mentally, to improve their team and individual soccer skills 
+and attain a sense of self achievement through personal and peer motivation. Lions Soccer Club will insist to build up friendly team work environment and expects each member to work at their best.  
+</p></h4>
+<p><h4>There will be team categories depending on the quantity and skills of the player. 
+Female and Male players will be divided and play separately as different organizations. 
+Sometimes they will be able to play together. 
+There will be tryouts for the indoor soccer club.</p></h4>
+<hr><p><h6>Saint Leo University</h6></p><p>
+	<a herf="http://www.hotelsnearsaintleo.com/_/rsrc/1289338610804/home/Saint%20Leo%20University%20Lions.jpg">
+	http://www.hotelsnearsaintleo.com/_/rsrc/1289338610804/home/Saint%20Leo%20University%20Lions.jpg
+	</a>
+	</p></hr> 
+</body>
+
+
+</html>
+
