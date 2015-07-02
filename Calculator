@@ -1,0 +1,70 @@
+<html>
+<head>
+	<title>Calculon 1.0</title>
+	<style type="text/css">
+		body {background-color: silver;}
+		.cbutton { height: 2eM; width: 2eM;}
+		.clr { height: 2eM; width: 2eM; background-color: red;}
+		.eql { height: 2eM; width: 4eM; }
+		.disp { text-align: right; }
+	</style>
+		
+	<script type="text/javascript" src="calcBB.js"></script>
+</head>
+
+<body onload="">
+
+<form name="f1b">
+<table>
+<tr>
+<td align="center" colspan="4">
+<input type="text" name="usertext" class="disp" value="ERROR"/>
+</td>
+
+</tr>
+
+
+<tr>
+<td><input type="button" class="cbutton" name="b7" value="7" onclick=""/></td>
+<td><input type="button" class="cbutton" name="b8" value="8" onclick=""/></td>
+<td><input type="button" class="cbutton" name="b9" value="9" onclick=""/></td>
+<td><input type="button" class="cbutton" name="bt" value="&#215;" onclick=""/></td>
+</tr>
+
+
+<tr>
+<td><input type="button" class="cbutton" name="b4" value="4" onclick=""/></td>
+<td><input type="button" class="cbutton" name="b5" value="5" onclick=""/></td>
+<td><input type="button" class="cbutton" name="b6" value="6" onclick=""/></td>
+<td><input type="button" class="cbutton" name="bm" value="-" onclick=""/></td>
+</tr>
+
+<tr>
+<td><input type="button" class="cbutton" name="b1" value="1" onclick=""/></td>
+<td><input type="button" class="cbutton" name="b2" value="2" onclick=""/></td>
+<td><input type="button" class="cbutton" name="b3" value="3" onclick=""/></td>
+<td><input type="button" class="cbutton" name="bp" value="+" onclick=""/></td>
+</tr>
+
+
+
+<tr>
+<td><input type="button" class="cbutton" name="bd" value="." onclick=""/></td>
+<td><input type="button" class="cbutton" name="b0" value="0" onclick=""/></td>
+<td><input type="button" class="cbutton" name="bd" value="&#247;" onclick=""/></td>
+<td><input type="button" class="clr" name="bd" value="C" onclick="clearw();"/></td>
+</tr>
+
+
+<tr><td colspan="4" align="center">
+<input type="button" class="eql" name="be" value="=" onclick="" />
+</td></tr>
+
+
+</table>
+</form>
+
+</h1>
+</body>
+
+
